@@ -1,10 +1,8 @@
 # Regex-tutorial --Match an Email
 
-In this tutorial I will be explaining the use the regex (a sequence of characters that specifies a search pattern in text) using the expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ 
-
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this tutorial I will be explaining the use the regex (a sequence of characters that specifies a search pattern in text) using the expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ 
 
 ## Table of Contents
 
